@@ -1,0 +1,11 @@
+<a class="gb1" href="https://www.google.com/imghp?hl=en&amp;tab=wi">Images</a>
+<a class="gb1" href="https://maps.google.com/maps?hl=en&amp;tab=wl">Maps</a>
+<a class="gb1" href="https://play.google.com/?hl=en&amp;tab=w8">Play</a>
+<a class="gb1" href="https://www.youtube.com/?gl=US&amp;tab=w1">YouTube</a>
+<a class="gb1" href="https://news.google.com/nwshp?hl=en&amp;tab=wn">News</a>
+<a class="gb1" href="https://mail.google.com/mail/?tab=wm">Gmail</a>
+<a class="gb1" href="https://drive.google.com/?tab=wo">Drive</a>
+<a class="gb1" href="https://www.google.com/intl/en/options/" style="text-decoration:none"><u>More</u> »</a>
+<a class="gb4" href="https://accounts.google.com/ServiceLogin?hl=en&amp;passive=true&amp;continue=https://www.google.com/" id="gb_70" target="_top">Sign in</a>
+<a class="_XIi" href="https://www.google.com/url?q=https://www.google.com/culturalinstitute/beta/project/black-history-and-culture&amp;source=hpp&amp;id=19005054&amp;ct=3&amp;usg=AFQjCNEBSgq6XWmcTAJ34B6aVdlibtWgDQ&amp;sa=X&amp;ved=0ahUKEwj9veTCsMXZAhUW8WMKHQyvA6wQ8IcBCAU" rel="nofollow">Explore the icons and moments in Black History</a>
+<a href="https://plus.google.com/116899029375914044550" rel="publisher">+Google</a>
